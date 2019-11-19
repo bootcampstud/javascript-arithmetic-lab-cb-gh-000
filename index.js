@@ -6,10 +6,15 @@ function subtract(a,b){
     var something = b-a;
     return(something)
 }
-function subtract(a,b){
+function multiply(a,b){
     var something = b*a;
     return(something)
 }
+function divide(a,b){
+    var something = b/a;
+    return(something)
+}
+
 function inc(n){
   var newthing = n+1;
   return(newthing)
